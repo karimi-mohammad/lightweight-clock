@@ -17,14 +17,14 @@ yarn add lightweight-clock
  Import the Clock class:
 
 ```JavaScript
-import { Clock } from 'lightweight-clock';
+import { LW_Clock } from 'lightweight-clock';
 ```
   
 Create a Clock instance and specify the HTML element to display it:
 
 ```JavaScript
 const clockElement = document.getElementById('my-clock');
-const clock = new Clock();
+const clock = new LW_Clock();
 clock.show(clockElement);
 ```
 
@@ -58,9 +58,9 @@ HTML
     <div id="my-clock"></div>
     <script src="node_modules/lightweight-clock/dist/index.js"></script>
     <script>
-        import { Clock } from 'lightweight-clock';
+        import { LW_Clock } from 'lightweight-clock';
         const clockElement = document.getElementById('my-clock');
-        const clock = new Clock();
+        const clock = new LW_Clock();
         clock.show(clockElement);
     </script>
 </body>
