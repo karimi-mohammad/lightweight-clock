@@ -1,6 +1,6 @@
 {
   "name": "lightweight-clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lightweight package for live clock",
   "main": "index.js",
   "type": "module",
