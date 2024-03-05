@@ -1,0 +1,24 @@
+{
+  "name": "lightweight-clock",
+  "version": "1.0.0",
+  "description": "lightweight package for live clock",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clock",
+    "live",
+    "time",
+    "lightweight"
+  ],
+  "author": {
+    "name": "Mohammad-Karimi",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/karimi-mohammad/lightweight-clock.git"
+    }
+  },
+  "license": "MIT"
+}
