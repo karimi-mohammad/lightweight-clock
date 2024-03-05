@@ -76,3 +76,5 @@ Contribution
 We welcome contributions to improve this library. Feel free to submit pull requests or issues on our 
 [GitHub repository](https://github.com/karimi-mohammad/lightweight-clock)
 .
+
+[NPM repository](https://www.npmjs.com/package/lightweight-clock)
